@@ -1,0 +1,28 @@
+.textarea{
+    padding: 5px 10px ;
+    margin: 10px;
+    font-size: 25px;
+    font-weight: 600; 
+    
+}
+input{
+    border-radius: 7px;
+    padding: 10px 10px;
+    margin: 10px;
+    display:inline-block;
+    width: 150px;
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+    
+ }
+ .boxlogin{
+    padding: 50px 30px ;
+    margin :70px;
+    display: block;
+    width: 30%;
+    outline: 1px solid aliceblue;
+ }
+ button{
+    margin: 10px;
+}
